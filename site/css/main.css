@@ -30,7 +30,7 @@ body{
     padding: 1%;
     justify-content: space-around;
 }
-p{
+.container-fluid .row  .col-md-4 p{
 	padding: 6.5%;
 }
  #h41 , #h42 , #h43{
